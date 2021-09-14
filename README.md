@@ -17,6 +17,8 @@ https://petl.readthedocs.io/en/stable/
 
 https://pandas.pydata.org/
 
+https://www.anaconda.com/
+
 - Projeto ETL - Ambiente e definição
 
 - Projeto ETL - Desenvolvimento
