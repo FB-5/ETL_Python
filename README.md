@@ -1,9 +1,7 @@
 
-## **Fundamentos de ETL com Python** (curso da DIO)
+# Fundamentos de ETL com Python (curso da DIO)
 
-- Introdução ao ETL
-
-ETL é um tipo de *data integration* em três etapas (extração, transformação, carregamento) usado para combinar dados de diversas fontes. Ele é comumente utilizado para construir   um data *warehouse*.
+## Introdução ao ETL
 
 https://airflow.apache.org/
 
@@ -19,9 +17,19 @@ https://pandas.pydata.org/
 
 https://www.anaconda.com/
 
-- Projeto ETL - Ambiente e definição
+## Projeto ETL - Ambiente e definição
+  
+  ETL é um tipo de *data integration* em três etapas (extração, transformação, carregamento) usado para combinar dados de diversas fontes. Ele é comumente utilizado para construir   um data *warehouse*.
 
-- Projeto ETL - Desenvolvimento
+## Projeto ETL - Desenvolvimento
+
+  Extração
+  
+  Validação
+  
+  Limpeza
+  
+  Transformação
 
 INSTRUTOR
 
