@@ -23,14 +23,17 @@ https://www.anaconda.com/
 
 ## Projeto ETL - Desenvolvimento
 
-  Extração
+  leitura de arq/Extração <br>
+  https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html#
   
-  Validação
+  Validação <br>
+  https://pandera.readthedocs.io/en/stable/
   
-  Limpeza
-  
+  Limpeza <br>
+  https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html
+
   Transformação
-  
+    
 ## Observações: 
      
    Quando der erro na install do Pandera usar:  pip install pandera
