@@ -30,6 +30,20 @@ https://www.anaconda.com/
   Limpeza
   
   Transformação
+  
+## Observações: 
+     
+   Quando der erro na install do Pandera usar:  pip install pandera
+   
+   Quando no Colab usando o Goggle Drive: <br> 
+   (https://medium.com/@araujo.dionata/google-colab-importando-arquivos-direto-do-google-drive-5c0fc2798480)
+  
+   import pandas as pd <br>
+   import pandera as pa <br>
+   from google.colab import drive <br>
+
+   drive.mount('/content/drive') 
+   
 
 INSTRUTOR
 
