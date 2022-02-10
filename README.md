@@ -19,7 +19,7 @@ https://www.anaconda.com/
 
 ## Projeto ETL - Ambiente e definição
   
-  ETL é um tipo de *data integration* em três etapas (extração, transformação, carregamento) usado para combinar dados de diversas fontes. Ele é comunmente utilizado para construir   um data *warehouse*.
+  ETL é um tipo de *data integration* em três etapas (extração, transformação, carregamento) usado para combinar dados de diversas fontes. Ele é comumente utilizado para construir   um data *warehouse*.
 
 ## Projeto ETL - Desenvolvimento
 
